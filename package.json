@@ -1,0 +1,27 @@
+{
+  "name": "excel-column-index",
+  "version": "1.0.0",
+  "description": "Convert column names to column indexes or numbers and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrubelic/excel-column-index.git"
+  },
+  "keywords": [
+    "excel",
+    "columns",
+    "column",
+    "name",
+    "column",
+    "index"
+  ],
+  "author": "Davor Grubelić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgrubelic/excel-column-index/issues"
+  },
+  "homepage": "https://github.com/dgrubelic/excel-column-index#readme"
+}
